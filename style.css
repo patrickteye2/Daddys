@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+body img{
+    width: 500px
+}
